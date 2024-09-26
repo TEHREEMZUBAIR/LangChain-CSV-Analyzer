@@ -1,4 +1,3 @@
-Here’s a **README.md** file with detailed, step-by-step instructions for your project:
 
 ---
 
