@@ -1,9 +1,9 @@
 
 ---
 
-# 📊 Chainalyze Pro: CSV Analyzer and Visualizer using LangChain
+# 📊 CSV Catalyst: CSV Analyzer and Visualizer using LangChain
 
-Chainalyze Pro is a powerful tool designed to analyze, clean, and visualize CSV data using LangChain and OpenAI. With an intuitive interface built on Streamlit, it allows you to interact with your data and get intelligent insights with just a few clicks.
+CSV Catalyst is a powerful tool designed to analyze, clean, and visualize CSV data using LangChain and OpenAI. With an intuitive interface built on Streamlit, it allows you to interact with your data and get intelligent insights with just a few clicks.
 
 ## 🚀 Project Overview
 This project leverages the power of large language models (LLMs) to analyze CSV datasets, generate summary reports, perform data analysis, and create visualizations (bar and line charts). It's powered by LangChain and OpenAI's GPT-4.
@@ -100,6 +100,27 @@ After running the command, your app should open automatically in the browser.
 - **Visualization Queries**: 
   - "Create a bar chart of column A."
   - "Plot a line chart for columns A and B."
+
+---
+
+🔎 Summarizer Example:
+![Summarizer](https://github.com/user-attachments/assets/086b49b9-dbd2-4e2b-b388-37afb888a5f8)
+
+🔎 Data Analysis Example:
+You can ask the agent to analyze your dataset and provide detailed insights.
+
+Example query:
+"Which Products have the highest Sales"
+Result:
+![analysis](https://github.com/user-attachments/assets/49c16da0-c388-4f58-8674-44d8c5839804)
+
+📈 Visualization Example:
+By asking questions related to visualization, you can easily generate bar charts or line charts.
+
+Example query:
+"Create a bar chart of the sales of first five products."
+Output:
+![Visualization](https://github.com/user-attachments/assets/64954971-d0fa-4591-9d3d-b42a08ee2dc7)
 
 ---
 
